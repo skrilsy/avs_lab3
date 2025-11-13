@@ -67,6 +67,9 @@ avs_lab3/
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=macos&logoColor=white)
+![Terminal](https://img.shields.io/badge/Terminal-241F31?style=flat&logo=gnu-bash&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat&logo=markdown&logoColor=white)
 
@@ -74,7 +77,6 @@ avs_lab3/
 
 ## 📥 Установка и запуск
 
-\`\`\`bash
 # Клонирование репозитория
 git clone https://github.com/skrilsy/avs_lab3.git
 cd avs_lab3
