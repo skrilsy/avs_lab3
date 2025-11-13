@@ -115,7 +115,7 @@ git diff <commit1> <commit2> # Сравнение коммитов
 
 <div align="center">
 
-**Университет ИТМО** • **Кафедра АВС** • **2024**  
+**Университет ИТМО** • **АВС** • **2025**  
 *Лабораторная работа выполнена в рамках учебного курса*
 
 [![ITMO](https://img.shields.io/badge/ITMO-University-blue?style=for-the-badge)](https://itmo.ru)
