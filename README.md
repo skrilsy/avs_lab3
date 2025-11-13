@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # 🎀 Лабораторная работа №3 по АВС 🎀
 
 <div align="center">
@@ -124,4 +123,4 @@ git diff <commit1> <commit2> # Сравнение коммитов
 [![ITMO](https://img.shields.io/badge/ITMO-University-blue?style=for-the-badge)](https://itmo.ru)
 
 </div>
-EOF
+
